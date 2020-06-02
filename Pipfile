@@ -1,0 +1,12 @@
+[[source]]
+name = "kana-kanji-converter"
+url = "https://github.com/kana-kanji-sit2020/kana-kanji-converter"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+mecab = "*"
+
+[requires]
+python_version = "3.8"
