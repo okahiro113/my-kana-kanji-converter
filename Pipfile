@@ -1,6 +1,6 @@
 [[source]]
-name = "kana-kanji-converter"
-url = "https://github.com/kana-kanji-sit2020/kana-kanji-converter"
+name = "pypi"
+url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
