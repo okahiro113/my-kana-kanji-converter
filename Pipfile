@@ -7,6 +7,10 @@ verify_ssl = true
 
 [packages]
 mecab = "*"
+pandas = "*"
+networkx = "*"
+matplotlib = "*"
+jaconv = "*"
 
 [requires]
 python_version = "3.8"
